@@ -1,1 +1,62 @@
+Documento de Requisitos do Sistema (ADD suplementos)
+Vers�o 1.0
+
+
+OBS: O conte�do contido neste modelo � apenas a n�vel de exemplo. Cada artefato dever� ser feito de acordo com os conhecimentos adquiridos pelo grupo em outras disciplinas somados ao visto ao longo do semestre. (favor retirar essas observa��es e exemplos antes da entrega e os demais textos e imagens �decorativas�)
+
+
+Cronograma do Projeto
+
+Data
+Descri��o
+16/05/2023
+Defini��o da equipe e tema do projeto
+23/05/2023
+Inicia��o do c�digo do projeto
+30/05/2023
+Estiliza��o da pagina e algumas mudan�as 
+06/06/2023
+Iniciamos o c�digo da p�gina de produtos
+
+
+Equipe de desenvolvimento
+
+Nome
+Fun��o
+David Michel
+Desenvolvedor
+Davi Fernandes
+Desenvolvedor 
+Alisson costa
+Desenvolvedor 
+
+1. Introdu��o
+Este documento especifica os requisitos do sistema ADD suplementos fornecendo aos desenvolvedores e stakeholders  as informa��es necess�rias para o projeto e implementa��o, assim como para a realiza��o dos testes e homologa��o do sistema.
+
+1.1.1 O Projeto consiste na cria��o de um sistema web voltado � parte de vendas de suplementos e outros tipos de objetos voltados para academia 
+
+Link do reposit�rio: https://github.com/davidmichel2005/ADD-suplementos.git
+2. Descri��o geral do sistema
+
+O sistema permite que o consumidor procure por produtos para comprar, com baixos pre�os e uma boa diversidade de produtos
+
+3. Requisitos funcionais
+
+ [UC001] Autenticar-se no Sistema
+Descri��o: Permite aos usu�rios logarem no sistema.
+Atores: compradores e desenvolvedores 
+Entradas e pr�-condi��es: n�o possui
+Sa�das e p�s-condi��o: n�o possui.
+
+
+* Mensagens
+M1
+Valores inv�lidos para Login ou senha
+
+Nome do Projeto � Trabalho de Gradua��o 2023.1
+Disciplina: Aplica��es para Internet
+Professor: Daniel Brand�o
+
+
+
 
